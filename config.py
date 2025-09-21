@@ -41,7 +41,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Nova_Flix\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/cosmic_freak>sᴜʙᴀʀᴜ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>ᴛʜɪs ʙᴏᴛ ɪs ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ  ᴛʜᴇ ᴋɪᴛᴛʏ ᴄʀᴇᴡ ◉『 ᴛᴋᴄ 』\nғᴏʀ sʜᴀʀɪɴɢ ʙᴏᴏᴋs ᴀɴᴅ ᴀᴜᴅɪᴏʙᴏᴏᴋs\nᴛᴀᴘ ᴀʙᴏᴜᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴀᴄᴄᴇss ᴛʜᴇ ʙᴏᴏᴋs & ᴀᴜᴅɪᴏʙᴏᴏᴋs ᴄʜᴀɴɴᴇʟ\nᴏʀ ᴊᴏɪɴ ᴏᴜʀ ʙᴏᴏᴋs & ᴀᴜᴅɪᴏʙᴏᴏᴋs ʀᴇᴏ‌ᴜᴇsᴛ ᴀɴᴅ ᴅɪsᴄᴜssɪᴏɴ ɢʀᴏᴜᴘ <a href=https://t.me/addlist/xTvfiR8DGEFmOTY1>ᴊᴏɪɴ ɴᴏᴡ</a></blockquote></b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/TKC_Bots>ᴛʜᴇ ᴋɪᴛᴛʏ ᴄʀᴇᴡ ◉『 ᴛᴋᴄ 』</a>\n◈ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs : <a href=https://t.me/+1yGgaEULwd4wZmM1>ᴅɪᴠᴇ ɪɴ</a>\n◈ ᴅʀᴀᴍᴀs & ᴛᴠ sʜᴏᴡs : <a href=https://t.me/+IGapZdQ3UugyZDU9>ᴅɪᴠᴇ ɪɴ</a>\n◈ ʙᴏᴏᴋs & ᴀᴜᴅɪᴏʙᴏᴏᴋs : <a href=https://t.me/+Pbk3alPkarFlYTA1>ᴅɪᴠᴇ ɪɴ</a>\n◈ ᴍɪʀʀᴏʀ ʟᴇᴇᴄʜ ɢʀᴏᴜᴘ : <a href=https://t.me/Free_Mirror_leech_group_4gb>ᴊᴏɪɴ ɴᴏᴡ</a>\n◈ ᴛʜᴇ ᴋɪᴛᴛʏ ᴄʀᴇᴡ ◉『 ᴛᴋᴄ 』 : <a href=https://t.me/addlist/xTvfiR8DGEFmOTY1>ᴊᴏɪɴ ɴᴏᴡ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
